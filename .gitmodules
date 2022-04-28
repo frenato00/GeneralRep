@@ -1,0 +1,6 @@
+[submodule "RepSub1"]
+	path = RepSub1
+	url = https://github.com/frenato00/RepSub1.git
+[submodule "RepSub2"]
+	path = RepSub2
+	url = https://github.com/frenato00/RepSub2.git
